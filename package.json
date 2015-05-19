@@ -1,0 +1,16 @@
+{
+  "name": "twab-twitt",
+  "version": "0.0.1",
+  "description": "twab bot server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hugohil",
+  "license": "none",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "twit": "^1.1.20"
+  }
+}
